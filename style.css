@@ -1,0 +1,20 @@
+.d-flex {
+  display:flex;
+}
+
+main {
+  padding: 0em 1em 10em 1em;
+  border-top: 1px solid grey;
+}
+
+  .blue {
+    color:aqua;
+  }
+  
+.oceanBlue{
+    background-color:blue;
+  }
+
+.body{
+  flex-direction: row;
+}
